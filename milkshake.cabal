@@ -10,7 +10,7 @@ maintainer:          78emil@gmail.com
 copyright:           Copyright (c) 2017, Emil Axelsson
 category:            Development
 build-type:          Simple
-extra-source-files:  ChangeLog.md, README.md
+extra-source-files:  README.md
 cabal-version:       >=1.10
 
 library
